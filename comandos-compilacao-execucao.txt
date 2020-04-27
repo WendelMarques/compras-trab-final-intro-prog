@@ -1,0 +1,6 @@
+﻿$ gcc -c sistema.c
+
+$ gcc sistema.o itemArea.c itemFornecedor.c item_Listar_Forn_por_Area.c itemFornecedorFuncoes.c itemAreaFuncoes.c desenhaMenus.c cabecalhosFornecedor.c cabecalhosArea.c -o ex
+
+$ ./ex
+
