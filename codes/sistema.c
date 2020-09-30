@@ -25,15 +25,15 @@ ARQUIVOS MUNIPULADOS:
 
 /**####################################################################################################################################################################################################
 
-																			MENU PRINCIPAL
-												Blocos correspondentes ao menu principal,  o qual chama uma das funcoes abaixo
-																	de acordo com a escolha do usuario
+MENU PRINCIPAL
+Blocos correspondentes ao menu principal,  o qual chama uma das funcoes abaixo
+de acordo com a escolha do usuario
 
-																		1 - itemFornecedor
-																		2 - itemArea
-																		3 - item_Listar_Forn_por_Area
-																		--
-																		4 - encerra o programa
+1 - itemFornecedor
+2 - itemArea
+3 - item_Listar_Forn_por_Area
+--
+4 - encerra o programa
 
 
 ####################################################################################################################################################################################################*/
